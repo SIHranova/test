@@ -1,14 +1,9 @@
 {
     "name": "Testtetst",
-    "template":"testtest",
+    "template":"jquery",
     "exp_id": "test",
-    "contributors": [
-                     "Jonathan Nicholas",
-                     "Christian Battista",
-                     "Vanessa Sochat"
-                    ],
-    "time":10,
-    "instructions": "Follow the instructions to play the game.",
-    "description": "A fun game to test problem solving skills.",
-    "url": "https://www.github.com/terraregina/test"
+    "publish": "False",
+    "run": ["js/Boot.js", "js/box2d-plugin-full.min.js", "js/Instructions.js", "js/jquery.min.js", "js/Menu.js", "js/phaser.min.js", "js/Preloader.js", "js/problem.js", "js/Run.js"]
 }
+
+
