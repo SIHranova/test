@@ -1,0 +1,14 @@
+{
+    "name": "test",
+    "template":"testtest",
+    "exp_id": "test_1",
+    "contributors": [
+                     "Jonathan Nicholas",
+                     "Christian Battista",
+                     "Vanessa Sochat"
+                    ],
+    "time":10,
+    "instructions": "Follow the instructions to play the game.",
+    "description": "A fun game to test problem solving skills.",
+    "url": "https://www.github.com/terraregina/test"
+}
