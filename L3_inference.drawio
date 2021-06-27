@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T15:12:13.437Z" agent="5.0 (X11)" etag="q8oVY8BczlDyLnjqKLUj" version="14.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-27T15:22:33.866Z" agent="5.0 (X11)" etag="K3vWmyNri45W2k6r-V9T" version="14.8.1" type="github" pages="2">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
-    <mxGraphModel dx="1673" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="2370" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,10 +203,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ek0R0ZTpNEP_K-Zgk053" name="Page-2">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="385" dy="435" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Qhq4K7eTOYyHZder4-QG-0" />
         <mxCell id="Qhq4K7eTOYyHZder4-QG-1" parent="Qhq4K7eTOYyHZder4-QG-0" />
+        <mxCell id="qleRqY6DS_X-xovVCUTN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Qhq4K7eTOYyHZder4-QG-1" source="Qhq4K7eTOYyHZder4-QG-3" target="qleRqY6DS_X-xovVCUTN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qhq4K7eTOYyHZder4-QG-3" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;Statistical tests:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;distinguish sample and intervention effects&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Qhq4K7eTOYyHZder4-QG-1">
+          <mxGeometry x="550" y="20" width="116" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="qleRqY6DS_X-xovVCUTN-1" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Testing as decision procedure&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="Qhq4K7eTOYyHZder4-QG-1">
+          <mxGeometry x="264" y="72" width="120" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
