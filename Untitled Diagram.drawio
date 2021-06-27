@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T10:56:27.481Z" agent="5.0 (X11)" version="14.8.1" etag="rkFetakYU_d9XBaWfCMT" type="github"><diagram id="S2jBDGMZTfLZOEU3KDfl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-27T11:05:10.918Z" agent="5.0 (X11)" etag="zPKdupXel9c4EVIDHV_C" version="14.8.1" type="github">
+  <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
+    <mxGraphModel dx="375" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ycgSQVnb8Eu3qLplw12D-1" target="ycgSQVnb8Eu3qLplw12D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ycgSQVnb8Eu3qLplw12D-1" target="ycgSQVnb8Eu3qLplw12D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-1" value="&lt;div&gt;&lt;b&gt;Inference:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;given a sample infer correct characterization of distribution&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-2" value="Non-parametric inference problems" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ycgSQVnb8Eu3qLplw12D-4" target="ycgSQVnb8Eu3qLplw12D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-4" value="&lt;div&gt;Parametric inference problems:&lt;/div&gt;&lt;div&gt;inference focuses on parameter estimation&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-6" value="assumes X follows family of distributions $$F_{theta}$$" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="510" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
