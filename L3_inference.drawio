@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T12:03:57.137Z" agent="5.0 (X11)" etag="JkxsZMpNkBRBIl9wRQBw" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T14:22:06.377Z" agent="5.0 (X11)" etag="AvmHmu9qEzNKd9A_sLqj" version="14.8.1" type="github">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
-    <mxGraphModel dx="2250" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="1185" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ycgSQVnb8Eu3qLplw12D-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ycgSQVnb8Eu3qLplw12D-1" target="ycgSQVnb8Eu3qLplw12D-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ycgSQVnb8Eu3qLplw12D-1" value="&lt;div&gt;&lt;b&gt;Inference:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;given a sample infer correct characterization of distribution&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-1" value="&lt;div&gt;&lt;b&gt;Inference:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;given a sample infer correct characterization of distribution&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="970" y="550" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tAZWQw_xvtE8fRC8TVs--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ycgSQVnb8Eu3qLplw12D-2" target="tAZWQw_xvtE8fRC8TVs--5" edge="1">
@@ -22,7 +22,7 @@
         <mxCell id="tAZWQw_xvtE8fRC8TVs--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ycgSQVnb8Eu3qLplw12D-2" target="tAZWQw_xvtE8fRC8TVs--11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ycgSQVnb8Eu3qLplw12D-2" value="Non-parametric inference problems" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-2" value="Non-parametric inference problems" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="730" y="550" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tAZWQw_xvtE8fRC8TVs--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ycgSQVnb8Eu3qLplw12D-4" target="tAZWQw_xvtE8fRC8TVs--9" edge="1">
@@ -34,19 +34,19 @@
         <mxCell id="tAZWQw_xvtE8fRC8TVs--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ycgSQVnb8Eu3qLplw12D-4" target="tAZWQw_xvtE8fRC8TVs--29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ycgSQVnb8Eu3qLplw12D-4" value="&lt;div&gt;&lt;b&gt;Parametric inference problems&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;inference focuses on parameter estimation&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ycgSQVnb8Eu3qLplw12D-4" value="&lt;div&gt;&lt;b&gt;Parametric inference problems&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;inference focuses on parameter estimation&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1210" y="550" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="tAZWQw_xvtE8fRC8TVs--5" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Assumes parametrized family but &lt;b&gt;parameters not focus of inference&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Question: Is &lt;b&gt;X &lt;/b&gt;normally distributed at all?&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tAZWQw_xvtE8fRC8TVs--5" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Assumes parametrized family but &lt;b&gt;parameters not focus of inference&lt;/b&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Question: Is &lt;b&gt;X &lt;/b&gt;normally distributed at all?&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="725" y="697.5" width="170" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="tAZWQw_xvtE8fRC8TVs--7" value="&lt;div&gt;Little to no assumptions about &lt;i&gt;F&lt;b&gt;, &lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;distribution free infrence, &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Question: are two distributions identical? (&lt;i&gt;Goodness of fit test&lt;/i&gt;)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tAZWQw_xvtE8fRC8TVs--7" value="&lt;div&gt;Little to no assumptions about &lt;i&gt;F&lt;b&gt;, &lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;distribution free infrence, &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Question: are two distributions identical? (&lt;i&gt;Goodness of fit test&lt;/i&gt;)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="700" y="420" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="tAZWQw_xvtE8fRC8TVs--9" value="&lt;div&gt;&lt;b&gt;assumes X follows family of distributions \(F_{\theta}\)&lt;span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Example: bianry medical treatment outcome, measurements i.i.d.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="710" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tAZWQw_xvtE8fRC8TVs--11" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Example:&lt;/b&gt; adding substrate two cell cultures and counting distribution of some property (T=cell count). &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Has distribution shifted? (Mann-Whitney t-test for significance)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tAZWQw_xvtE8fRC8TVs--11" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Example:&lt;/b&gt; adding substrate two cell cultures and counting distribution of some property (T=cell count). &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Has distribution shifted? (Mann-Whitney t-test for significance)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="390" y="562.5" width="270" height="65" as="geometry" />
         </mxCell>
         <mxCell id="tAZWQw_xvtE8fRC8TVs--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAZWQw_xvtE8fRC8TVs--15" target="tAZWQw_xvtE8fRC8TVs--17" edge="1">
@@ -103,7 +103,7 @@
         <mxCell id="tAZWQw_xvtE8fRC8TVs--47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAZWQw_xvtE8fRC8TVs--40" target="tAZWQw_xvtE8fRC8TVs--46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hHRhIhDRTpSFWYAxkZh6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tAZWQw_xvtE8fRC8TVs--40" target="hHRhIhDRTpSFWYAxkZh6-1">
+        <mxCell id="hHRhIhDRTpSFWYAxkZh6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tAZWQw_xvtE8fRC8TVs--40" target="hHRhIhDRTpSFWYAxkZh6-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tAZWQw_xvtE8fRC8TVs--40" value="Quality criteria" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -115,13 +115,13 @@
         <mxCell id="tAZWQw_xvtE8fRC8TVs--46" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Consistency:&lt;/b&gt;Distribution concentrates around true param val with increasing sample size&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="977.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hHRhIhDRTpSFWYAxkZh6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hHRhIhDRTpSFWYAxkZh6-1" target="hHRhIhDRTpSFWYAxkZh6-3">
+        <mxCell id="hHRhIhDRTpSFWYAxkZh6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hHRhIhDRTpSFWYAxkZh6-1" target="hHRhIhDRTpSFWYAxkZh6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hHRhIhDRTpSFWYAxkZh6-1" value="&lt;div&gt;&lt;b&gt;Efficiency:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;smaller variablity given fixed &lt;i&gt;n&lt;/i&gt; shows efficiency, can still be biased&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hHRhIhDRTpSFWYAxkZh6-1" value="&lt;div&gt;&lt;b&gt;Efficiency:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;smaller variablity given fixed &lt;i&gt;n&lt;/i&gt; shows efficiency, can still be biased&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1690" y="826.25" width="160" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="hHRhIhDRTpSFWYAxkZh6-3" value="&lt;div&gt;&lt;b&gt;standard error: &lt;/b&gt;std of estimator distribution &lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hHRhIhDRTpSFWYAxkZh6-3" value="&lt;div&gt;&lt;b&gt;standard error: &lt;/b&gt;std of estimator distribution &lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="710" width="120" height="47.5" as="geometry" />
         </mxCell>
       </root>
