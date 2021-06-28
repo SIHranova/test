@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T20:09:38.762Z" agent="5.0 (X11)" etag="SBYX01sYSY4KjyqjC62q" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-28T20:20:35.232Z" agent="5.0 (X11)" etag="idYiz-Vp70Bp5lOsBylu" version="14.8.2" type="github" pages="3">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
-    <mxGraphModel dx="1350" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="2250" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ek0R0ZTpNEP_K-Zgk053" name="Page-2">
-    <mxGraphModel dx="1673" dy="895" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1350" dy="734" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="Qhq4K7eTOYyHZder4-QG-0" />
         <mxCell id="Qhq4K7eTOYyHZder4-QG-1" parent="Qhq4K7eTOYyHZder4-QG-0" />
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkRAIY69cF4Ed4MsEsLQ" name="Page-3">
-    <mxGraphModel dx="2100" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2294" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-0" />
         <mxCell id="FX5G3CtRhjNFMq5Fulie-1" parent="FX5G3CtRhjNFMq5Fulie-0" />
@@ -408,7 +408,7 @@
         <mxCell id="FX5G3CtRhjNFMq5Fulie-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="FX5G3CtRhjNFMq5Fulie-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OKvFeaGsEh11uUnczLI3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="OKvFeaGsEh11uUnczLI3-0">
+        <mxCell id="OKvFeaGsEh11uUnczLI3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="OKvFeaGsEh11uUnczLI3-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-3" value="Location tests" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
@@ -417,8 +417,8 @@
         <mxCell id="FX5G3CtRhjNFMq5Fulie-5" value="&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;independent samples t-test&lt;/b&gt; H&lt;sub style=&quot;font-size: 10px&quot;&gt;0&lt;/sub&gt;:\(\mu_1 = \mu_2\)&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;assumes norm dist with same unknown \(\sigma^2\)&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;\(&amp;nbsp;&amp;nbsp; t=\frac{\bar{y}_1 -\bar{y}_2 }{s \sqrt{1/n_1 + 1/n_2}} \stackrel{H_0}{\sim}t_{n_1+n_2-2}&amp;nbsp; \)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;compares the means and scales them by the SEM, variance &lt;i&gt;s&lt;/i&gt; calculated over both samples. With a bigger n we scale less. The more df, the closer we are to the normal distribution. &lt;br&gt;&lt;/div&gt;" style="square;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=10;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
           <mxGeometry x="420" y="210" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OKvFeaGsEh11uUnczLI3-0" value="&lt;b&gt;Two-sample Welsch test: &lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;assumes&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;different \(  \sigma^2 \) for the two samples (length of boxplots&lt;br&gt;differ starkly)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;\( t = \frac{\bar{y_1} - \bar{y_2}}{\nu} &lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;\) &lt;/span&gt;{\sqrt{s^2_1/n_1 + s^2_2/n^2}}&lt;br&gt;\stackrel{H_0}{\tilde}t_{\nu} &lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Degrees of freedom \(  \nu \) is an approximation (can be non-integer)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; Estimation in roomwidth in&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; meters and feet and asking if there is difference b/n the two means. &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="-10" y="370" width="450" height="150" as="geometry" />
+        <mxCell id="OKvFeaGsEh11uUnczLI3-0" value="&lt;b&gt;Two-sample Welsch test: &lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;assumes&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; different \(  \sigma^2 \) for the two samples (length of boxplots&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; differ starkly)&lt;/span&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot; align=&quot;left&quot;&gt;\(t=\frac{\bar{y}_1 - \bar{y}_2}{\sqrt{s^2_1/n_1+s^2_2/n_2}}\stackrel{H_0}{\sim}t_{\nu}\)&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Degrees of freedom \(  \nu \) is an approximation (can be non-integer)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; Estimation in roomwidth in&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; meters and feet and asking if there is difference b/n the two means. &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
+          <mxGeometry x="-30" y="360" width="450" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
