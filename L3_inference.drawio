@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T22:48:42.952Z" agent="5.0 (X11)" etag="mFIqOp4nrSS7SyUH8VZP" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-28T23:34:27.078Z" agent="5.0 (X11)" etag="NAfQKkAIhWDqVHzfoC0E" version="14.8.2" type="github" pages="3">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
     <mxGraphModel dx="2385" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkRAIY69cF4Ed4MsEsLQ" name="Page-3">
-    <mxGraphModel dx="917" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2140" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-0" />
         <mxCell id="FX5G3CtRhjNFMq5Fulie-1" parent="FX5G3CtRhjNFMq5Fulie-0" />
@@ -405,82 +405,102 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-2" target="-PM3EozKd5zYHk8fVg3G-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIzO5jX0l84s1pMqNGz2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-2" target="kIzO5jX0l84s1pMqNGz2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;Statistical tests&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
-          <mxGeometry x="560" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="FX5G3CtRhjNFMq5Fulie-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OKvFeaGsEh11uUnczLI3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="OKvFeaGsEh11uUnczLI3-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-PM3EozKd5zYHk8fVg3G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="-PM3EozKd5zYHk8fVg3G-12">
+        <mxCell id="-PM3EozKd5zYHk8fVg3G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="-PM3EozKd5zYHk8fVg3G-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="530" as="targetPoint" />
+            <mxPoint x="150" y="470" as="targetPoint" />
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PM3EozKd5zYHk8fVg3G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;exitX=0.561;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="-PM3EozKd5zYHk8fVg3G-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.02857142857147" y="370" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="500" y="490" />
-              <mxPoint x="260" y="490" />
+              <mxPoint x="467" y="480" />
+              <mxPoint x="467" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-PM3EozKd5zYHk8fVg3G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="-PM3EozKd5zYHk8fVg3G-4">
+        <mxCell id="kIzO5jX0l84s1pMqNGz2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="FX5G3CtRhjNFMq5Fulie-3" target="OKvFeaGsEh11uUnczLI3-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="440" />
-              <mxPoint x="500" y="440" />
+              <mxPoint x="410" y="280" />
+              <mxPoint x="160" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-3" value="Location tests" style="circle;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
-          <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-5" value="&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;independent samples t-test&lt;/b&gt; H&lt;sub style=&quot;font-size: 10px&quot;&gt;0&lt;/sub&gt;:\(\mu_1 = \mu_2\)&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;assumes norm dist with same unknown \(\sigma^2\)&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;\(&amp;nbsp;&amp;nbsp; t=\frac{\bar{y}_1 -\bar{y}_2 }{s \sqrt{1/n_1 + 1/n_2}} \stackrel{H_0}{\sim}t_{n_1+n_2-2}&amp;nbsp; \)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;compares the means and scales them by the SEM, variance &lt;i&gt;s&lt;/i&gt; calculated over both samples. With a bigger n we scale less. The more df, the closer we are to the normal distribution. &lt;br&gt;&lt;/div&gt;" style="square;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=10;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
-          <mxGeometry x="380" y="210" width="240" height="120" as="geometry" />
+          <mxGeometry x="340" y="40" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OKvFeaGsEh11uUnczLI3-0" value="&lt;b&gt;Independent Two-sample Welsch test: &lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;assumes&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; different \(  \sigma^2 \) for the two samples (length of boxplots&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; differ starkly)&lt;/span&gt;&lt;p style=&quot;margin-bottom: 0in ; line-height: 100%&quot; align=&quot;left&quot;&gt;\(t=\frac{\bar{y}_1 - \bar{y}_2}{\sqrt{s^2_1/n_1+s^2_2/n_2}}\stackrel{H_0}{\sim}t_{\nu}\)&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; Degrees of freedom \(  \nu \) is an approximation (can be non-integer)&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Example:&lt;/b&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; Estimation in roomwidth in&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt; meters and feet and asking if there is difference b/n the two means. &lt;b&gt;Output from R&lt;/b&gt;: value of statistic, df, CI(does not contain zero, hence reject H&lt;sub&gt;0&lt;/sub&gt;), p-val &lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" parent="FX5G3CtRhjNFMq5Fulie-1" vertex="1">
-          <mxGeometry x="20" y="325" width="350" height="150" as="geometry" />
+          <mxGeometry x="5" y="40" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-1" value="&lt;div style=&quot;font-size: 10px;&quot; align=&quot;left&quot;&gt;Normal Q-Q plot compares data to &lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot; align=&quot;left&quot;&gt;what would be expected under \( N\)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="20" y="295" width="180" height="30" as="geometry" />
+          <mxGeometry x="5" y="10" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-4" value="&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Paired samples t-test: &lt;/b&gt;individuals observed twice or each group member paired with someone from other group&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Compare &lt;b&gt;single sample difference: &lt;/b&gt;\( d_i = y_{i1} - y_{i2} \sim N(\mu, \sigma^2)\), where H&lt;sub&gt;0: \(\mu = 0\), equivalent to \(\mu_1 - \mu_2 = 0\)&lt;/sub&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;sub&gt;Test statistic: \(t=\frac{\bar{d}}{s/\sqrt{n}}\stackrel{H_0}{\sim}t_{n-1}\)&lt;/sub&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot; align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;sub&gt;Example: &lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;sub&gt;Measure bending stress for different methods and sea states (equivalent to participants), CI interval holds zero, accept H_0 &lt;/sub&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="347.5" y="520" width="305" height="130" as="geometry" />
+          <mxGeometry x="315" y="440" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-6" value="differnce of means" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="20" y="480" width="100" height="20" as="geometry" />
+          <mxGeometry x="5" y="240" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-7" value="mean of difference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="410" y="650" width="100" height="20" as="geometry" />
+          <mxGeometry x="340" y="610" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="-PM3EozKd5zYHk8fVg3G-12" target="-PM3EozKd5zYHk8fVg3G-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="60" y="570" />
+              <mxPoint x="140" y="550" />
+              <mxPoint x="140" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-12" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Relaxing assumptions&lt;/b&gt;: data not normally distributed, due to CLT however \(\bar{x}\) approaches normal dist asymptotically with increasing \(n\). &lt;b&gt;Rule of thumb, &lt;/b&gt;if data distribution is &lt;b&gt;unimodal &lt;/b&gt;(Welsch) t-test can be used for \(25 \leq n\)&lt;/div&gt;&lt;div&gt;&amp;nbsp;and group sizes are preferably equal. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Hence tests are distinguished as &lt;b&gt;exact and asymptotic&lt;/b&gt; depending on whether distribution used for statistic T holds for finite &lt;i&gt;n&amp;nbsp; &lt;/i&gt;or when n -&amp;gt; infinity.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="80" y="500" width="240" height="140" as="geometry" />
+          <mxGeometry x="20" y="300" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-14" value="&lt;div&gt;&lt;b&gt;Wilcoxon-Mann-Whitney U-Test: &lt;/b&gt;non-parametric location test for highly-nonlinear data. Comparing &lt;b&gt;distribution &lt;/b&gt;shift instead of expectation shift (not a good estimate for skewed dists). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Considers joint ranks &lt;/b&gt;in both groups and calculates test statistic from sum of all ranks within a group. Interpreted as p(X&amp;gt;Y) = p(Y&amp;gt;X). Example: take an X and count times X&amp;gt;= Y.If dist shifted small or big ranks accumulate, since ranks &lt;b&gt;fixed. &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inference either &lt;b&gt;asymptotic&lt;/b&gt;(normal approx )or &lt;b&gt;exact(&lt;/b&gt; given group sizes?&lt;b&gt;). &lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;align=left;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="50" y="670" width="290" height="110" as="geometry" />
+          <mxGeometry x="15" y="470" width="225" height="200" as="geometry" />
         </mxCell>
         <mxCell id="kIzO5jX0l84s1pMqNGz2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="-PM3EozKd5zYHk8fVg3G-16" target="kIzO5jX0l84s1pMqNGz2-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIzO5jX0l84s1pMqNGz2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="-PM3EozKd5zYHk8fVg3G-16" target="kIzO5jX0l84s1pMqNGz2-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="290" />
+              <mxPoint x="820" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-PM3EozKd5zYHk8fVg3G-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Contingency Tables: &lt;/b&gt;count data&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="720" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIzO5jX0l84s1pMqNGz2-0" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Exact Binomial Test: &lt;/b&gt;fixed number of indepedent trials with unknown success prob \(\pi\);&lt;b&gt; &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;H&lt;sub&gt;0&lt;/sub&gt;: &lt;/b&gt;\(\pi = \pi_0\) for stated fixed value \(\pi_0\)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Test-statistic: &lt;/b&gt;# of successes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;i&gt;X &lt;/i&gt;follows binomial distribution under H&lt;sub&gt;0&lt;/sub&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;sub&gt;\(X \stackrel{H_0}{\sim}Bin(n,\pi_0); \;\; p_x:= P({X=x}) = nCx \pi_{0}^{x} \cdot (1-\pi_0)^{(n-x)}\) &lt;br&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;P-value: &lt;/b&gt;sum of probabilities of all outcomes which have a probability mass of less likely outcomes (p &amp;lt; p&lt;sub&gt;x&lt;/sub&gt;)&lt;sub&gt;.&lt;/sub&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="660" y="110" width="360" height="150" as="geometry" />
+          <mxGeometry x="630" y="60" width="360" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="kIzO5jX0l84s1pMqNGz2-4" value="&lt;b&gt;Crosstabs: &lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
-          <mxGeometry x="920" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="kIzO5jX0l84s1pMqNGz2-4" value="&lt;div&gt;&lt;b&gt;Pearson \(\chi^2\) test:&lt;/b&gt; two categorical variables examined obtained from n sources. Leads to a cross-classification. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;H&lt;sub&gt;0&lt;/sub&gt;&lt;/b&gt;: columns and rows independent of each other.&lt;/div&gt;&lt;div&gt;Compare observed counts with&lt;b&gt; expected counts under H&lt;sub&gt;0&lt;/sub&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Expected count &lt;/b&gt;given marginals&lt;b&gt;: &lt;/b&gt;\(E_{jk} = n_j \cdot \frac{n_k}{n}\)&lt;/div&gt;&lt;div&gt;\(\chi^{2} = \sum_{j=1}^{r}\sum_{k=1}^{c} \frac{(n_{jk} - E_{jk})^2}{E_{jk}} \stackrel{H_0}{\sim}_{n \rightarrow \infty}\chi^2_{(r-1)(c-1)}\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
+          <mxGeometry x="840" y="250" width="309" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="kIzO5jX0l84s1pMqNGz2-8" value="Randomization tests" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
+          <mxGeometry x="650" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
