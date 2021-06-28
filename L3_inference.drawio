@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T20:57:07.402Z" agent="5.0 (X11)" etag="j5rK8TJ_8wqQUryli9rX" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-28T21:21:45.492Z" agent="5.0 (X11)" etag="dlARjZ0JS8eOg4kZE5hB" version="14.8.2" type="github" pages="3">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
     <mxGraphModel dx="2250" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dkRAIY69cF4Ed4MsEsLQ" name="Page-3">
-    <mxGraphModel dx="290" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="818" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="FX5G3CtRhjNFMq5Fulie-0" />
         <mxCell id="FX5G3CtRhjNFMq5Fulie-1" parent="FX5G3CtRhjNFMq5Fulie-0" />
@@ -444,8 +444,18 @@
         <mxCell id="-PM3EozKd5zYHk8fVg3G-7" value="mean of difference" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
           <mxGeometry x="450" y="640" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-PM3EozKd5zYHk8fVg3G-12" value="&lt;b&gt;Relaxing assumptions&lt;/b&gt;: data not normally distributed, due to CLT however \(\bar{X}\) approaches normal dist asymptotically with increasing \(n\). &lt;b&gt;Rule of thumb, &lt;/b&gt;if data distribution is &lt;b&gt;unimodal &lt;/b&gt;(Welsch) t-test can be used for \(n \leq\)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
+        <mxCell id="-PM3EozKd5zYHk8fVg3G-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="FX5G3CtRhjNFMq5Fulie-1" source="-PM3EozKd5zYHk8fVg3G-12" target="-PM3EozKd5zYHk8fVg3G-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PM3EozKd5zYHk8fVg3G-12" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Relaxing assumptions&lt;/b&gt;: data not normally distributed, due to CLT however \(\bar{x}\) approaches normal dist asymptotically with increasing \(n\). &lt;b&gt;Rule of thumb, &lt;/b&gt;if data distribution is &lt;b&gt;unimodal &lt;/b&gt;(Welsch) t-test can be used for \(25 \leq n\)&lt;/div&gt;&lt;div&gt;&amp;nbsp;and group sizes are preferably equal. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Hence tests are distinguished as &lt;b&gt;exact and asymptotic&lt;/b&gt; depending on whether distribution used for statistic T holds for finite &lt;i&gt;n&amp;nbsp; &lt;/i&gt;or when n -&amp;gt; infinity.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
           <mxGeometry x="120" y="500" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-PM3EozKd5zYHk8fVg3G-14" value="&lt;div&gt;&lt;b&gt;Wilcoxon-Mann-Whitney U-Test: &lt;/b&gt;non-parametric location test for highly-nonlinear data. Comparing &lt;b&gt;distribution &lt;/b&gt;shift instead of expectation shift (not a good estimate for skewed dists). &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Considers joint ranks &lt;/b&gt;in both groups and calculates test statistic from sum of all ranks within a group. Interpreted as p(X&amp;gt;Y) = p(Y&amp;gt;X). Example: take an X and count times X&amp;gt;= Y.If dist shifted small or big ranks accumulate, since ranks &lt;b&gt;fixed. &lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inference either &lt;b&gt;asymptotic&lt;/b&gt;(normal approx )or &lt;b&gt;exact(&lt;/b&gt; given group sizes?&lt;b&gt;). &lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;align=left;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="FX5G3CtRhjNFMq5Fulie-1">
+          <mxGeometry x="90" y="670" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
