@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T15:09:09.163Z" agent="5.0 (X11)" etag="3iUlXVYEF7AXw4nLtDHS" version="14.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-01T20:44:43.726Z" agent="5.0 (X11)" etag="YANy6qFHeLpfNeZp1_vB" version="14.8.3" type="github" pages="5">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
     <mxGraphModel dx="3375" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
@@ -616,6 +616,23 @@
         </mxCell>
         <mxCell id="1wOv15qP7nFRAG6BXzSt-12" value="&lt;div&gt;&lt;b&gt;For R &amp;gt; 2&lt;/b&gt; F-test is based on the F-statistic. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;For R = 2&lt;/b&gt; the F-statistic is equal to the t- statistic \(t = \frac{(\bar{X} - \bar{Y}) - (\mu_1 - \mu_2)}{S_p\sqrt{1/N_1 + 1/N_2}}\)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="QMOdwYrcYX4zyLn38eXj-1">
           <mxGeometry x="40" y="510" width="230" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZvZcA9aKKHd3pIb0yfCy" name="Page-5">
+    <mxGraphModel dx="-2938" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+      <root>
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-0" />
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-1" parent="niT-6NnHcBp1Jcb6SRP1-0" />
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niT-6NnHcBp1Jcb6SRP1-1" source="niT-6NnHcBp1Jcb6SRP1-2" target="niT-6NnHcBp1Jcb6SRP1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-2" value="Generalized Linear regression" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
+          <mxGeometry x="3820" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-3" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;The general linear model: &lt;/b&gt;\(E(Y|X) = \beta_0 + \beta_1X_1 ... + \beta_pX_p\)&lt;/div&gt;&lt;div&gt;Imprtant: \(p+1\) variables for p coefficients, since we include \(X_0 = 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;The data: &lt;/b&gt;\(y_i = \beta_0 + \sum_j^p\beta_jx_{ij} + \epsilon_i\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Matrix form: \(Y = X\vec{\beta}\ + \vec{\epsilon}\)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;\(E(\epsilon) = 0, \;\; Var(\epsilon) = \sigma^2*I_n\)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
+          <mxGeometry x="3740" y="130" width="280" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
