@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T20:44:43.726Z" agent="5.0 (X11)" etag="YANy6qFHeLpfNeZp1_vB" version="14.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-02T07:45:34.988Z" agent="5.0 (X11)" etag="0eweEAIcpXIvbM5yhHnL" version="14.8.3" type="github" pages="5">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
-    <mxGraphModel dx="3375" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,18 +621,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZvZcA9aKKHd3pIb0yfCy" name="Page-5">
-    <mxGraphModel dx="-2938" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
+    <mxGraphModel dx="-2487" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="1" shadow="0">
       <root>
         <mxCell id="niT-6NnHcBp1Jcb6SRP1-0" />
         <mxCell id="niT-6NnHcBp1Jcb6SRP1-1" parent="niT-6NnHcBp1Jcb6SRP1-0" />
-        <mxCell id="niT-6NnHcBp1Jcb6SRP1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niT-6NnHcBp1Jcb6SRP1-1" source="niT-6NnHcBp1Jcb6SRP1-2" target="niT-6NnHcBp1Jcb6SRP1-3">
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="niT-6NnHcBp1Jcb6SRP1-1" source="niT-6NnHcBp1Jcb6SRP1-2" target="niT-6NnHcBp1Jcb6SRP1-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="niT-6NnHcBp1Jcb6SRP1-2" value="Generalized Linear regression" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-2" value="&lt;b&gt;Generalized Linear models. Logistic regression&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="niT-6NnHcBp1Jcb6SRP1-1" vertex="1">
           <mxGeometry x="3820" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="niT-6NnHcBp1Jcb6SRP1-3" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;The general linear model: &lt;/b&gt;\(E(Y|X) = \beta_0 + \beta_1X_1 ... + \beta_pX_p\)&lt;/div&gt;&lt;div&gt;Imprtant: \(p+1\) variables for p coefficients, since we include \(X_0 = 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;The data: &lt;/b&gt;\(y_i = \beta_0 + \sum_j^p\beta_jx_{ij} + \epsilon_i\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Matrix form: \(Y = X\vec{\beta}\ + \vec{\epsilon}\)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;\(E(\epsilon) = 0, \;\; Var(\epsilon) = \sigma^2*I_n\)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
-          <mxGeometry x="3740" y="130" width="280" height="190" as="geometry" />
+        <mxCell id="jBz5H_7FD5UiTx4w2Rc_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niT-6NnHcBp1Jcb6SRP1-1" source="niT-6NnHcBp1Jcb6SRP1-3" target="jBz5H_7FD5UiTx4w2Rc_-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jBz5H_7FD5UiTx4w2Rc_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="niT-6NnHcBp1Jcb6SRP1-1" source="niT-6NnHcBp1Jcb6SRP1-3" target="jBz5H_7FD5UiTx4w2Rc_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niT-6NnHcBp1Jcb6SRP1-3" value="&lt;div&gt;&lt;b&gt;The general linear model: &lt;/b&gt;\(E(Y|X) = \beta_0 + \beta_1X_1 ... + \beta_pX_p\),&amp;nbsp; \(p+1\) variables for p coefficients, since we include \(X_0 = 1\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;The data: &lt;/b&gt;\(y_i = \beta_0 + \sum_j^p\beta_jx_{ij} + \epsilon_i\)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Matrix form: &lt;/b&gt;\(\vec{y} = X\vec{\beta}\ + \vec{\epsilon}\;\;E(\epsilon) = 0, \;\; Var(\epsilon) = \sigma^2*I_n\)&lt;/div&gt;&lt;div&gt;&lt;b&gt;Principle and calculation: &lt;/b&gt;\(\sum(\epsilon^2) = (\vec{y} - X\beta)^T(\vec{y} - X\beta))\). \(\hat{\beta}\) minimizes \(\epsilon^2\)and it can be shown that \(X^T X \hat{\beta}=X^Ty\) and if X is full rank we can solve by inverting.&lt;br&gt;&lt;/div&gt;" style="square=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" parent="niT-6NnHcBp1Jcb6SRP1-1" vertex="1">
+          <mxGeometry x="3695" y="150" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jBz5H_7FD5UiTx4w2Rc_-0" value="" style="whiteSpace=wrap;html=1;align=left;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
+          <mxGeometry x="3370" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jBz5H_7FD5UiTx4w2Rc_-2" value="&lt;div&gt;&lt;b&gt;Assess model fit: &lt;/b&gt;\(y_i = \hat{\beta}* \vec{x}\) fit assessed using multiple coefficient of determination again&lt;/div&gt;&lt;div&gt;\(R = 1 - \frac{SYY}{Var(y)}\)&lt;br&gt; &lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="niT-6NnHcBp1Jcb6SRP1-1">
+          <mxGeometry x="4160" y="205" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
