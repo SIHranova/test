@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T14:47:16.844Z" agent="5.0 (X11)" etag="Yio9TJ8QuxbMO8hRP3YH" version="14.8.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-05T12:44:00.702Z" agent="5.0 (X11)" etag="8VZVp6M29O6HJ0qhvAlO" version="14.8.4" type="github" pages="6">
   <diagram id="S2jBDGMZTfLZOEU3KDfl" name="Page-1">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="1673" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,6 +706,17 @@
         </mxCell>
         <mxCell id="6Vwe6Iitr4W13OFGUNlL-17" value="&lt;div&gt;&lt;b&gt;Testing the hypothesis of independence&lt;/b&gt;: probability of count in cell ij is product of marginals for all cells vs that not being the case for atleast one cell. &lt;br&gt;&lt;/div&gt;&lt;div&gt;We can compute expected cell counts for each cell by taking the product of each cell and each row normalzed by n and calculate the &lt;b&gt;goodness of fit using the \(\chi^2\) Pearson statistic&lt;/b&gt; and &lt;b&gt;\(G^2 = 2 \sum_{ij} n_{ij}log(n_{ij}/\hat{n}\). &lt;/b&gt;As the sample size goes to infinity these statistics converge to &lt;b&gt;a chi squred distribution with df = (nrow-1)(ncol-1). &lt;/b&gt;We can then compute the p value and see if there is evidence against or for independence. &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="niT-6NnHcBp1Jcb6SRP1-1" vertex="1">
           <mxGeometry x="2530" y="535.01" width="360" height="184.99" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tz21B5zyFZiOnE_TqQcZ" name="Page-6">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="xyMwNnFPWHLkSeFGz5wv-0" />
+        <mxCell id="xyMwNnFPWHLkSeFGz5wv-1" parent="xyMwNnFPWHLkSeFGz5wv-0" />
+        <mxCell id="xyMwNnFPWHLkSeFGz5wv-2" value="&lt;b&gt;Mixed effects models &lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xyMwNnFPWHLkSeFGz5wv-1">
+          <mxGeometry x="540" y="365" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
