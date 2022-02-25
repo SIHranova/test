@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T12:57:02.092Z" agent="5.0 (X11)" etag="7TQ8sS4u3CJH-3Cg5kOj" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-25T12:57:46.914Z" agent="5.0 (X11)" etag="NEN5OrdBGc-58JQGHlor" version="16.6.4" type="github" pages="2">
   <diagram id="TOupvGNHUF3K_F6iWHJn" name="lecture_3">
     <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         <mxCell id="xu_WorJB7Z5g49x9baEc-24" value="stress" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
           <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-27" target="xu_WorJB7Z5g49x9baEc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xu_WorJB7Z5g49x9baEc-27" value="linguistic environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
           <mxGeometry x="150" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="xu_WorJB7Z5g49x9baEc-36" value="hippocampus memory" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
           <mxGeometry x="560" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-38" value="temporo-occipital, inferior frontal cortex; language" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="150" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
