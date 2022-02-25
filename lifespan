@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T12:59:11.681Z" agent="5.0 (X11)" etag="9IVaUEyyfzocFWtQRKd7" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-25T14:04:09.906Z" agent="5.0 (X11)" etag="h5g4B8GVmgPHnLW5aGwD" version="16.6.4" type="github" pages="2">
   <diagram id="TOupvGNHUF3K_F6iWHJn" name="lecture_3">
-    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dqF0l285oceab3AuqGmA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-1" value="structural brain aging" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-2" target="dqF0l285oceab3AuqGmA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-2" value="individual differences in brain structural aging" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-4" value="- the brain shrinks with age even in reasonably healthy adults&lt;br&gt;&lt;div&gt;- The pace of shrinkage exceeds the predictions of cross-sectional studies&lt;/div&gt;&lt;div&gt;- it varies across regionsand can be linera or non-linear &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Individual differences in the magnitude and variability of change are significant&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-5" value="shrinkage biggest in fc and ofc" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-7" value="&lt;div&gt;- big differences, aging explains variable amount of&lt;/div&gt;&lt;div&gt;schrinakge from structure to structure&lt;/div&gt;&lt;div&gt;- biggest efeects are observed in frontal cortex and putamen? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- there can be linear and non-linear decrease &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-8" value="hippocampus, frontal regions and striatal regions all shrink" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="365" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-10" value="ventricle size increases, not so much in middle adulthood but significantly in later age, good judge of brain health" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-18" value="CSF inncreases, brain shrinks, about 3% enlargement per year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-19" value="&lt;div&gt;&lt;b&gt;reduction in gyral thickness &lt;/b&gt;due to GM and WM decrease &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;width and depth of gury increases &lt;/b&gt;but &lt;b&gt;depth more stable&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-23" value="&lt;div&gt;white matter hyperdensities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;signify limidted &lt;b&gt;reduction in WM density&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="540" y="305" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dqF0l285oceab3AuqGmA-25" value="indicator of microbleed, infarct, " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
