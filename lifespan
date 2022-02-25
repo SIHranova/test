@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T12:29:35.181Z" agent="5.0 (X11)" version="16.6.4" etag="Wl44oi-griBjyJIsVQ6r" type="github"><diagram id="TOupvGNHUF3K_F6iWHJn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T12:57:02.092Z" agent="5.0 (X11)" etag="7TQ8sS4u3CJH-3Cg5kOj" version="16.6.4" type="github" pages="2">
+  <diagram id="TOupvGNHUF3K_F6iWHJn" name="lecture_3">
+    <mxGraphModel dx="1422" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_PULe9IRDPOiLI_VfqDA" name="lecture_2">
+    <mxGraphModel dx="1419" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-0" />
+        <mxCell id="xu_WorJB7Z5g49x9baEc-1" parent="xu_WorJB7Z5g49x9baEc-0" />
+        <mxCell id="xu_WorJB7Z5g49x9baEc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-2" target="xu_WorJB7Z5g49x9baEc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-2" target="xu_WorJB7Z5g49x9baEc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-2" target="xu_WorJB7Z5g49x9baEc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-2" value="environmental effects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="360" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-3" target="xu_WorJB7Z5g49x9baEc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-3" target="xu_WorJB7Z5g49x9baEc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-3" target="xu_WorJB7Z5g49x9baEc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-3" target="xu_WorJB7Z5g49x9baEc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-3" value="cortisol in pregnancy when carried to term" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-5" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;bigger amygdala&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;the bigger the behavioural abnormality the bigger the amygdala&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="160" y="920" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-7" value="higher stress response in cortisol children compared to stressed pregnancy control and normal pregnancy even 14 years afterwards" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="-70" y="850" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-9" value="only in girls" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="70" y="940" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-10" value="less efficient conflict monitoring as shown in amplitude of N2 for Go/NoGo 6 years afterwards" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="160" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-14" value="&lt;div&gt;increased self-control (ACC) correlated with less RT variability &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;increased precuneus activity correlates with higher stress response&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="-60" y="665" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-16" target="xu_WorJB7Z5g49x9baEc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-16" target="xu_WorJB7Z5g49x9baEc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-16" value="prenatal alcohol exposure " style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="560" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-18" value="combined longitudinal and cross-sectional study" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="560" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-20" value="gray matter the same but less white matter for PAE group, no results significant" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="760" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-22" target="xu_WorJB7Z5g49x9baEc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-22" target="xu_WorJB7Z5g49x9baEc-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-22" value="neural correlates of socio-economic status" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="360" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-24" target="xu_WorJB7Z5g49x9baEc-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-24" target="xu_WorJB7Z5g49x9baEc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="xu_WorJB7Z5g49x9baEc-1" source="xu_WorJB7Z5g49x9baEc-24" target="xu_WorJB7Z5g49x9baEc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-24" value="stress" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-27" value="linguistic environment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="150" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-31" value="&lt;div&gt;compensatory amygdala action&lt;/div&gt;&lt;div&gt;socio-emotional processing&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-34" value="ACC self-control" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="760" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xu_WorJB7Z5g49x9baEc-36" value="hippocampus memory" style="whiteSpace=wrap;html=1;" vertex="1" parent="xu_WorJB7Z5g49x9baEc-1">
+          <mxGeometry x="560" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
