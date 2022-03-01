@@ -1,61 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T14:04:09.906Z" agent="5.0 (X11)" etag="h5g4B8GVmgPHnLW5aGwD" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-01T10:46:23.179Z" agent="5.0 (X11)" etag="a2eQZAPTfKHwJ7XqQjbR" version="16.6.4" type="github" pages="2">
   <diagram id="TOupvGNHUF3K_F6iWHJn" name="lecture_3">
-    <mxGraphModel dx="1663" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dqF0l285oceab3AuqGmA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-2">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-1" target="83A83vRPMZWd0-D4ZeaW-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-8">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-1" target="83A83vRPMZWd0-D4ZeaW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-10">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-1" target="83A83vRPMZWd0-D4ZeaW-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-19">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-1" target="83A83vRPMZWd0-D4ZeaW-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-1" target="dqF0l285oceab3AuqGmA-23">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-1" target="83A83vRPMZWd0-D4ZeaW-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="340" as="targetPoint" />
+            <mxPoint x="510" y="470.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-1" value="structural brain aging" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-1" value="dualism" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="dqF0l285oceab3AuqGmA-2" target="dqF0l285oceab3AuqGmA-5">
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-2" target="83A83vRPMZWd0-D4ZeaW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-2" value="individual differences in brain structural aging" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-2" target="83A83vRPMZWd0-D4ZeaW-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-4" value="- the brain shrinks with age even in reasonably healthy adults&lt;br&gt;&lt;div&gt;- The pace of shrinkage exceeds the predictions of cross-sectional studies&lt;/div&gt;&lt;div&gt;- it varies across regionsand can be linera or non-linear &lt;br&gt;&lt;/div&gt;&lt;div&gt;- Individual differences in the magnitude and variability of change are significant&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="260" height="110" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="320.0000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-5" value="shrinkage biggest in fc and ofc" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-2" value="interaction problem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-7" value="&lt;div&gt;- big differences, aging explains variable amount of&lt;/div&gt;&lt;div&gt;schrinakge from structure to structure&lt;/div&gt;&lt;div&gt;- biggest efeects are observed in frontal cortex and putamen? &lt;br&gt;&lt;/div&gt;&lt;div&gt;- there can be linear and non-linear decrease &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="300" y="520" width="310" height="60" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-4" value="wie kann der koerper auf den geist wirken" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-8" value="hippocampus, frontal regions and striatal regions all shrink" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="365" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-6" value="wie kann der geist aud fer koerper wirken" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-10" value="ventricle size increases, not so much in middle adulthood but significantly in later age, good judge of brain health" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="210" y="140" width="140" height="90" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-11" value="how can the mental affect the physical, when the physical world is causally determined by the laws of physics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-18" value="CSF inncreases, brain shrinks, about 3% enlargement per year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-13" value="why can the nonmaterial affect only the brain and not other matter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-19" value="&lt;div&gt;&lt;b&gt;reduction in gyral thickness &lt;/b&gt;due to GM and WM decrease &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;width and depth of gury increases &lt;/b&gt;but &lt;b&gt;depth more stable&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="200" height="90" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-15" value="how does the non-corporeal reocgnize the brain and its specific brain " style="square;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-23" value="&lt;div&gt;white matter hyperdensities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;signify limidted &lt;b&gt;reduction in WM density&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="540" y="305" width="130" height="70" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-18" value="why does the brain need a body and the body need a brain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dqF0l285oceab3AuqGmA-25" value="indicator of microbleed, infarct, " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="160" height="20" as="geometry" />
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-20" target="83A83vRPMZWd0-D4ZeaW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83A83vRPMZWd0-D4ZeaW-20" target="83A83vRPMZWd0-D4ZeaW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-20" value="kognitive neuroscience underlying assumption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-21" value="mental processes are underlied by neuronal mechanisms of the brain" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="83A83vRPMZWd0-D4ZeaW-23" value="these mechanism &lt;b&gt;can be interpreted as information processing &lt;/b&gt;and explained through computational models" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
